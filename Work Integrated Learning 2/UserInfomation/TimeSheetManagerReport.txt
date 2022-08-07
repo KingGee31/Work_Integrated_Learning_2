@@ -1,0 +1,2 @@
+120
+System.Windows.Forms.TextBox, Text: 12

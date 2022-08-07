@@ -1,0 +1,10 @@
+Fleet Tracking System Application GuideLine
+
+1. Copy The "UserInformation" folder to Your C: Drive And Paste it there
+2. Look at Pic 2 First And Change the Highlighted Server name to Your Local Machine's Server Name
+3. After Looking at pic 2 Look At Pic 1, On Pic 1 you will have to change the connection string to the new connection string that your connection will provide
+4. My confidence in this App states that in order for it to fully Function On your Machine too, you must go through every form of this application And change the Look At pic 1 connection 
+string to your machine's connection string. this happens because the application's database does not save data to 1 table but an estimated of 6 tables. so for every table that receives data from the application
+the is a connection string that connects to the database and you will have to change it accordingly , to your machine's connection to the local database.
+
+5 the appliaction should work now.

@@ -1,0 +1,6 @@
+P:\School Stuff2020\SEMESTER 2\Work Integrated-XISD5219\Fleet-Tracking Information System Project\LoginFormApp\InformationSystemClassLibrary\bin\Debug\InformationSystemClassLibrary.dll
+P:\School Stuff2020\SEMESTER 2\Work Integrated-XISD5219\Fleet-Tracking Information System Project\LoginFormApp\InformationSystemClassLibrary\bin\Debug\InformationSystemClassLibrary.pdb
+P:\School Stuff2020\SEMESTER 2\Work Integrated-XISD5219\Fleet-Tracking Information System Project\LoginFormApp\InformationSystemClassLibrary\obj\Debug\InformationSystemClassLibrary.csprojAssemblyReference.cache
+P:\School Stuff2020\SEMESTER 2\Work Integrated-XISD5219\Fleet-Tracking Information System Project\LoginFormApp\InformationSystemClassLibrary\obj\Debug\InformationSystemClassLibrary.csproj.CoreCompileInputs.cache
+P:\School Stuff2020\SEMESTER 2\Work Integrated-XISD5219\Fleet-Tracking Information System Project\LoginFormApp\InformationSystemClassLibrary\obj\Debug\InformationSystemClassLibrary.dll
+P:\School Stuff2020\SEMESTER 2\Work Integrated-XISD5219\Fleet-Tracking Information System Project\LoginFormApp\InformationSystemClassLibrary\obj\Debug\InformationSystemClassLibrary.pdb
